@@ -1,3 +1,4 @@
 # Javascript
 My Javascript Tests
-Some test while i'm learnig Javascript language
+
+Some test while i'm learning Javascript language
